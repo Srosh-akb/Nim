@@ -10,7 +10,7 @@ AI that teaches itself to play Nim through reinforcement learning.
 python nim_play.py --games 1000
 ```
 5. Follow the prompts by choosing a pile and then count number to make a move.
-7. Watch the AI gain better strategy as it is allowed to play more and more games against itself.
+6. Watch the AI gain better strategy as it is allowed to play more and more games against itself.
 
 ## Background
 
