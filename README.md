@@ -1,5 +1,5 @@
 # Nim
-AI that teaches itself to play Nim through reinforcement learning.
+CS50AI Project 4b - AI that teaches itself to play Nim through reinforcement learning.
 
 ## Instructions
 1. Download this repository to your device.
