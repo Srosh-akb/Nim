@@ -14,7 +14,7 @@ python nim_play.py --games 1000
 
 ## Background
 
-The game [Nim](https://wild.maths.org/play-win-nim#:~:text=The%20rules%20of%20Nim&text=There%20are%20two%20players.,coins%20left%20after%20that%20move.) has a plethora of strategies that can increase the likelihood of winning. Q-Learning is used throughout this project for the AI to begin to understand strategy that can be used to win. The AI plays against itself multiple times, using reinforcement learning with rewards (+1 for win, -1 for loss) to train the AI to choose optimal moves throughout.#
+The game [Nim](https://wild.maths.org/play-win-nim#:~:text=The%20rules%20of%20Nim&text=There%20are%20two%20players.,coins%20left%20after%20that%20move.) has a plethora of strategies that can increase the likelihood of winning. Q-Learning is used throughout this project for the AI to begin to understand strategy that can be used to win. The AI plays against itself multiple times, using reinforcement learning with rewards (+1 for win, -1 for loss) to train the AI to choose optimal moves throughout.
 
 The programme works by taking old states and performing actions to receive a reward. This reward can represent either a win or loss or future possibilities of wins and losses. By maximising rewards the model can train itself to choose moves that have the highest likelihood of success.
 
